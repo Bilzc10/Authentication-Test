@@ -1,0 +1,28 @@
+{
+  "name": "authentication-test",
+  "version": "1.0.0",
+  "description": "test authentication in node.js using express, mongodb, and passport.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilzc10/Authentication-Test.git"
+  },
+  "keywords": [
+    "authentication",
+    "test"
+  ],
+  "author": "Bilzc10",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Bilzc10/Authentication-Test/issues"
+  },
+  "homepage": "https://github.com/Bilzc10/Authentication-Test#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "passport": "^0.4.0"
+  }
+}
